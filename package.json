@@ -1,0 +1,25 @@
+{
+  "name": "react-intro",
+  "version": "1.0.0",
+  "description": "Learning React",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jashan242/React.git"
+  },
+  "keywords": [],
+  "author": "Jashandeep Kaur",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jashan242/React/issues"
+  },
+  "homepage": "https://github.com/Jashan242/React#readme",
+  "devDependencies": {
+    "parcel": "^2.13.0"
+  }
+}
